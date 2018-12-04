@@ -1,0 +1,16 @@
+com\baizhi\BaizhiMapper.class
+org\apache\hadoop\io\nativeio\NativeIO$Windows.class
+com\baizhi\UserKeyValuePair.class
+com\baizhi\MyGroupComparator.class
+org\apache\hadoop\io\nativeio\NativeIO$CachedUid.class
+org\apache\hadoop\io\nativeio\NativeIO$Windows$AccessRight.class
+com\baizhi\MyMapReduce.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CacheManipulator.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$IdCache.class
+org\apache\hadoop\io\nativeio\NativeIO.class
+com\baizhi\BaizhiReduce.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$Stat.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$NoMlockCacheManipulator.class
+com\baizhi\JobSubmitter.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX$CachedName.class
+org\apache\hadoop\io\nativeio\NativeIO$POSIX.class
