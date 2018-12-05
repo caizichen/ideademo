@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 aaaaaaaaaaaaaaaaaa
 =======
 <<<<<<< HEAD
@@ -8,3 +9,6 @@ i change the text;
 asfda asdfasdasfdasfd
 >>>>>>> parent of c2544af... Update test.txt
 >>>>>>> parent of bcebbf0... Update test.txt
+=======
+i change the text
+>>>>>>> parent of bb169a3... aaaa
