@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 i change the text;
+=======
+
+asfda asdfasdasfdasfd
+>>>>>>> parent of c2544af... Update test.txt
